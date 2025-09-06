@@ -50,6 +50,8 @@
           :local/root "../pyjama-fx"
           }
          ;org.openjfx/javafx {:mvn/version "20.0.2"} ; JavaFX runtime
+
+         org.jline/jline {:mvn/version "3.30.5"}
          }
 
  :aliases
